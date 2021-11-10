@@ -255,5 +255,10 @@ text-align:center;
     color:#3a3a3a;
 }
 
-
+.social-network i:hover{
+    font-size:250%;
+    margin:1%;
+    padding: 5%;
+    color:#3a3a3a;
+}
 
